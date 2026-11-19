@@ -1,0 +1,13 @@
+{
+  "features": [
+    "Die Height", "Fill press", "Fill time", "Decel Stroke", "Decel spd", 
+    "Dcl Length", "V shut P", "PourRet", "Ejct Fwd", "Spray", 
+    "Core in", "WorkCool", "Die Open", "Core out", "Eject", 
+    "Take out", "Cycle time", "Clamping Force", "Low Spd", "High Spd", 
+    "Pres Up T", "Casting P", "Bis size", "H Spd Start", "H Length", 
+    "FillEnd", "Peak Spd", "Shot Wt", "L Accel", "H Accel", 
+    "Vacuum", "H Spd Vari", "DLckForc", "DieClose", "Pouring", 
+    "Shot", "Cycle"
+  ]
+}
+
